@@ -119,4 +119,16 @@ export default [
         likes: 889,
         comments: 366,
     },
+        {
+        id: "2e31j212648558d",
+        user: {
+            username: "Kwa Jin Kiat",
+            profilePhotoUrl: "https://picsum.photos/48/48",
+        },
+        postedAt: "2022-08-22T12:02:57 +08:00",
+        post: "Color Picker:Color Picker: With this online tool you can upload an image or provide a website URL and get the RGB Color, HEX Color and HSL Color code.",
+        photoUrl: "https://picsum.photos/500/1000",
+        likes: 889,
+        comments: 366,
+    },
 ]
